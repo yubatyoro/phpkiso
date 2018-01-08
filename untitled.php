@@ -1,5 +1,5 @@
 <!-- アンケートフォームの作成(DBとの連携) -->
-
+変更したよ
 <<?php 
 // 接続 
 $dsn = 'mysql:dbnbame=phpkiso;host=localhpst';
